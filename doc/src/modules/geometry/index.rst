@@ -18,7 +18,7 @@ Available Entities
 
 The following entities are currently available in the geometry module:
 
-* ``Point``
+* :ref:`Point <points.rst>`
 * ``Line``, ``Ray``, ``Segment``
 * ``Ellipse``, ``Circle``
 * ``Polygon``, ``RegularPolygon``, ``Triangle``
